@@ -1,0 +1,24 @@
+{
+   "data":[
+      {
+         "name":"Good Girls",
+         "platform":"Netflix",
+         "rating":"7.8"
+      },
+      {
+         "name":"Hannibal",
+         "platform":"Netflix",
+         "rating":"8.5"
+      },
+      {
+         "name":"The Boys",
+         "platform":"Prime",
+         "rating":"8.7"
+      },
+      {
+         "name":"House, M.D",
+         "platform":"Prime",
+         "rating":"8.7"
+      }
+   ]
+}
