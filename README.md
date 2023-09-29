@@ -1,4 +1,4 @@
-# Workshops
+# Events
 
 Material for all KOSS workshops in a central location.
 
@@ -6,20 +6,32 @@ Material for all KOSS workshops in a central location.
 
 ```graphql
 ├── Year1                   
-│   ├── Workshop1             
-│   │   ├── README.md              
+│   ├── event1             
+│   │   ├── README.md
+│   │   ├── slides             
+│   │       ├── slides.pdf               
+│   │       └── README.md             
 │   │   ... Contents
-│   ├── Workshop2            
-│   │   ├── README.md           
+│   ├── event2            
+│   │   ├── README.md
+│   │   ├── slides             
+│   │       ├── slides.pdf               
+│   │       └── README.md             
 │   │   ... Contents
 │   ...                 
 │
 ├── Year2                   
-│   ├── Workshop1             
-│   │   ├── README.md              
+│   ├── event1             
+│   │   └── README.md 
+│   │   ├── slides
+│   │       ├── slides.pdf
+│   │       └── README.md             
 │   │   ... Contents
-│   ├── Workshop2            
-│   │   ├── README.md           
+│   ├── event2            
+│   │   ├── README.md
+│   │   ├── slides
+│   │       ├── slides.pdf
+│   │       └── README.md           
 │   │   ... Contents
 │   ...                 
 │

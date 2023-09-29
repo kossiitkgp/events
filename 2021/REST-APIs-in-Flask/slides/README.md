@@ -1,0 +1,1 @@
+- [Slides](https://github.com/kossiitkgp/REST-APIs-in-Flask-Workshop-2021/blob/main/Rest%20API%20with%20flask.pdf)

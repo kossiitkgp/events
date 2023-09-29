@@ -1,1 +1,1 @@
-## Will be added soon..
+- [Repo containing all the details](https://github.com/kossiitkgp/Git-and-Github-2021)
