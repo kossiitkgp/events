@@ -7,6 +7,9 @@
 ### Prerequisites
 
 ### Resources
+1. [Awesome Linux Softwares](https://github.com/luong-komorebi/Awesome-Linux-Software): A list of awesome Linux softwares 🐧
+2. [Awesome Linux Ricing](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing(customisation) on linux
+3. [Linux Journey](https://linuxjourney.com/): A site dedicated to making learning Linux fun and easy
 
 ### Slides
 
