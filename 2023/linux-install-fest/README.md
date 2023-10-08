@@ -10,8 +10,8 @@
 1. [Awesome Linux Softwares](https://github.com/luong-komorebi/Awesome-Linux-Software): A list of awesome Linux softwares 🐧
 2. [Awesome Linux Ricing](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing(customisation) on linux
 3. [Linux Journey](https://linuxjourney.com/): A site dedicated to making learning Linux fun and easy
-4. [ItsFOSS](itsfoss.com): Resources and Articles on linux
-5. [Omg Ubutuntu](https://www.omgubuntu.co.uk/): Ubuntu Linux News, Apps, and More
+4. [It's FOSS](itsfoss.com): Guides, blogs, and other articles on Linux.
+5. [Omg Ubuntu!](https://www.omgubuntu.co.uk/): Linux news, app showcases, and more.
 
 ### Slides
 
