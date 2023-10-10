@@ -23,13 +23,13 @@ Material for all KOSS workshops in a central location.
 │   └── Autumn
 │       ├── Event1
 │       │   ├── README.md
-│       │   └── slides
+│       │   └── Slides
 │       │       ├── slides.pdf
 │       │       └── README.md
 │       │   ... Contents
 │       ├── Event2
 │       │   ├── README.md
-│       │   └── slides
+│       │   └── Slides
 │       │       ├── slides.pdf
 │       │       └── README.md                 
 │
@@ -37,13 +37,13 @@ Material for all KOSS workshops in a central location.
 │   ├── Spring
 │   │   ├── Event1
 │   │   │   ├── README.md
-│   │   │   └── slides
+│   │   │   └── Slides
 │   │   │       ├── slides.pdf
 │   │   │       └── README.md
 │   │   │   ... Contents
 │   │   ├── Event2
 │   │   │   ├── README.md
-│   │   │   └── slides
+│   │   │   └── Slides
 │   │   │       ├── slides.pdf
 │   │   │       └── README.md
 │   │   │   ... Contents
@@ -51,13 +51,13 @@ Material for all KOSS workshops in a central location.
 │   └── Autumn                   
 │       ├── Event1             
 │       │   └── README.md 
-│       │   └── slides
+│       │   └── Slides
 │       │       ├── slides.pdf
 │       │       └── README.md             
 │       │   ... Contents
 │       ├── Event2            
 │       │   ├── README.md
-│       │   └── slides
+│       │   └── Slides
 │       │       ├── slides.pdf
 │       │       └── README.md           
 │       │   ... Contents
