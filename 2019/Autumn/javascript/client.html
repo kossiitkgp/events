@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <script>
+        function handleclick(e){
+            fetch('https://jsonplaceholder.typicode.com/posts/1').then(res => res.json()).then( (res) => {
+                console.log(res)
+                document.getElementById('data').innerHTML = res.body;
+            })
+        } 
+    </script>
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="handleclick()">Click Me</button>
+    <h5 id="data"></h1>
+</body>
+</html>

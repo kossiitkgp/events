@@ -1,0 +1,1 @@
+The slides for the session can be found [here](http://slides.com/kshitij10496/pragmatic-go/fullscreen).
