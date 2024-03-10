@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Question Paper</title>
+    <!-- Include Tailwind CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-200 p-6">
+
+<div class="max-w-md mx-auto bg-white rounded p-8 shadow-md">
+    <h1 class="text-2xl font-bold mb-6">Upload Question Paper</h1>
+
+    <form id="theform" class="space-y-4">
+
+        <div>
+            <label for="year" class="block text-sm font-medium text-gray-600">Year:</label>
+            <input type="text" id="year" name="year" class="mt-1 p-2 border border-gray-300 rounded-md w-full" required>
+        </div>
+
+        <div>
+            <label for="course_name" class="block text-sm font-medium text-gray-600">Course Name:</label>
+            <input type="text" id="course_name" name="course_name" class="mt-1 p-2 border border-gray-300 rounded-md w-full" required>
+        </div>
+
+        <div>
+            <label for="file_link" class="block text-sm font-medium text-gray-600">File Link:</label>
+            <input type="text" id="file_link" name="file_link" class="mt-1 p-2 border border-gray-300 rounded-md w-full" required>
+        </div>
+
+        <div>
+            <button type="submit" class="bg-blue-500 text-white p-2 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:border-blue-300">
+                Submit
+            </button>
+        </div>
+    </form>
+
+    <script>
+        document.getElementById('theform').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            // Get form data
+            const formData = {
+                year: document.getElementById('year').value,
+                course_name: document.getElementById('course_name').value,
+                file_link: document.getElementById('file_link').value,
+            };
+
+            // Convert form data to JSON
+            const jsonData = JSON.stringify(formData);
+
+            // Send JSON data as a POST request to /submit
+            fetch('/form', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: jsonData,
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log('Success:', data);
+                // Handle success if needed
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+                // Handle error if needed
+            });
+        });
+    </script>
+</div>
+
+</body>
+</html>
