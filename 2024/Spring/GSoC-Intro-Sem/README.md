@@ -1,3 +1,7 @@
+### Slides:
+- [GSoC Intro Sem Slides (pdf)](./Slides/GsocIntroSeminar.pdf)
+- [GSoC Intro Sem Slides (canva link)](https://www.canva.com/design/DAF-gNOp7kw/85nwu-U04vk_oJwOexE4qw/view)
+
 ### Resources:
 - [GSoC Official Guides](https://g.co/gsoc/studentmanual)
 - [An unofficial FAQ by Himanshu Mishra](https://github.com/OrkoHunter/gsoc-FAQs)
