@@ -6,7 +6,7 @@
 1. [Google Summer of Code Introductory Seminar](#gsoc-introductory-seminar)
 1. [Git and Github Workshop](#git-and-github-workshop)
 1. [KOSS Lightning Talks](#koss-lightning-talks)
-1. [KOSS Fresher's Introductory Seminar](#koss-freshers-introductory-seminar)
+1. [KOSS Freshers' Introductory Seminar](#koss-freshers-introductory-seminar)
 1. [Linux Install Fest](#linux-installation-fest)
 1. [Miscellaneous](#miscellaneous)
     1. [Linux Shell Scripting and Vim Commands](#linux-shell-scripting-and-vim-commands)
@@ -57,7 +57,7 @@
 * **2021**
   * [**Autumn**](./2021/Autumn/Lightning-Talks)
 
-## KOSS Fresher's Introductory Seminar
+## KOSS Freshers' Introductory Seminar
 
 * **2023**
   * [**Spring**](./2023/Spring/KOSS-Intro-Sem)

@@ -73,7 +73,7 @@ Material for all KOSS workshops in a central location.
 1. [Google Summer of Code Introductory Seminar](./index.md#gsoc-introductory-seminar)
 1. [Git and Github Workshop](./index.md#git-and-github-workshop)
 1. [KOSS Lightning Talks](./index.md#koss-lightning-talks)
-1. [KOSS Fresher's Introductory Seminar](./index.md#koss-freshers-introductory-seminar)
+1. [KOSS Freshers' Introductory Seminar](./index.md#koss-freshers-introductory-seminar)
 1. [Linux Install Fest](./index.md#linux-installation-fest)
 1. [Miscellaneous](./index.md#miscellaneous)
     1. [Linux Shell Scripting and Vim Commands](./index.md#linux-shell-scripting-and-vim-commands)
