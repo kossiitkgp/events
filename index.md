@@ -3,16 +3,17 @@
 ## Table of Contents
 
 1. [Golang Workshop](#golang-workshop)
-1. [GSoc IntroSem](#gsoc-introsem)
-1. [Git and Github Workshop](#git-github-workshop)
-1. [Lightning Talks](#lightning-talks)
-1. [KOSS Introsem](#koss-introsem)
-1. [Linux Install Fest](#gnulinux-installation)
-1. [Linux Shell and VIM](#linux-shell-and-vim)
-1. [Python Workshop](#python-workshop)
-1. [Rest APIs](#rest-apis)
-1. [Hacking](#hacking-workshop)
-1. [Javascript Workshop](#javascript)
+1. [Google Summer of Code Introductory Seminar](#gsoc-introductory-seminar)
+1. [Git and Github Workshop](#git-and-github-workshop)
+1. [KOSS Lightning Talks](#koss-lightning-talks)
+1. [KOSS Fresher's Introductory Seminar](#koss-freshers-introductory-seminar)
+1. [Linux Install Fest](#linux-installation-fest)
+1. [Miscellaneous](#miscellaneous)
+    1. [Linux Shell Scripting and Vim Commands](#linux-shell-scripting-and-vim-commands)
+    1. [Python Workshop](#python-workshop)
+    1. [Rest APIs](#rest-apis)
+    1. [Hacking](#hacking-workshop)
+    1. [Javascript Workshop](#javascript-workshop)
 
 ## Golang Workshop
 
@@ -22,7 +23,7 @@
   * [**Autumn**](./2018/Autumn/golang)
 
 
-## GSoC IntroSem
+## GSoC Introductory Seminar
 
 * **2024**
   * [**Spring**](./2024/Spring/GSoC-Intro-Sem)
@@ -33,7 +34,7 @@
 * **2019**
   * [**Autumn**](./2019/Autumn/GSoC-Intro-Sem)
 
-## Git-GitHub Workshop
+## Git and GitHub Workshop
 
 * **2023**
   * [**Autumn**](./2023/Autumn/Git-github)
@@ -47,7 +48,7 @@
 * **2018**
   * [**Autumn**](./2018/Autumn/git-github)
 
-## Lightning Talks
+## KOSS Lightning Talks
 
 * **2023**
   * [**Autumn**](./2023/Autumn/Lightning-Talks)
@@ -56,39 +57,42 @@
 * **2021**
   * [**Autumn**](./2021/Autumn/Lightning-Talks)
 
-## KOSS IntroSem
+## KOSS Fresher's Introductory Seminar
 
 * **2023**
   * [**Spring**](./2023/Spring/KOSS-Intro-Sem)
 * **2021**
   * [**Autumn**](./2021/Autumn/KOSS-Intro-Sem)
 
-## GNU/Linux Installation
+## Linux Installation Fest
 
 * **2023**
   * [**Spring**](./2023/Spring/Ubuntu-Install-Fest)
 
-## Linux Shell and VIM
 
-* **2021**
-  * [**Spring**](./2021/Spring/Linux-Shell-and-VIM)
+## Miscellaneous
 
-## Python Workshop
+1. ## Linux Shell Scripting and Vim Commands
 
-* **2021** 
-  * [**Spring**](./2021/Spring/Python-Basic-&-Advanced)
+    * **2021**
+      * [**Spring**](./2021/Spring/Linux-Shell-and-VIM)
 
-## Rest APIs
+1. ## Python Workshop
 
-* **2021**
-  * [**Spring**](./2021/Spring/REST-APIs-in-Flask)
+    * **2021** 
+      * [**Spring**](./2021/Spring/Python-Basic-&-Advanced)
 
-## Hacking Workshop
+1. ## Rest APIs
 
-* **2019**
-  * [**Autumn**](./2019/Autumn/hacking)
+    * **2021**
+      * [**Spring**](./2021/Spring/REST-APIs-in-Flask)
 
-## Javascript
+1. ## Hacking Workshop
 
-* **2019**
-  * [**Autumn**](./2019/Autumn/javascript)
+    * **2019**
+      * [**Autumn**](./2019/Autumn/hacking)
+
+1. ## Javascript Workshop
+
+    * **2019**
+      * [**Autumn**](./2019/Autumn/javascript)
