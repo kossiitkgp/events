@@ -2,7 +2,7 @@
 
 | Topic & Link to slide | Presenter |
 |----------|----------|
-| [Jailbreaking LLMs](https://www.canva.com/design/DAGNj-KI_ik/-77xuu-Em52eziz-LULPgQ/view?utm_content=DAGNj-KI_ik&utm_campaign=designshare&utm_medium=link&utm_source=editor) | [@Himesh-Kundal](https://github.com/Himesh-Kundal) |
+| [Jailbreaking LLMs](https://github.com/Himesh-Kundal/LLM-JAILBREAK/) | [@Himesh-Kundal](https://github.com/Himesh-Kundal) |
 | [Math, Logic and Art, A Tale of Numbers](https://docs.google.com/presentation/d/1cOhMSrfgKCOmzSAQLSgEJN6jwFSBg49Ys0n83KieTx4/edit?usp=drivesdk) | [@Prasanthi-Peram](https://github.com/Prasanthi-Peram) |
 | [Understanding Gen Z Brainrot](https://prezi.com/view/2NGWMKqKjAgKBVDRIqtL/)| [@Devansh-bit](https://github.com/Devansh-bit) |
 | [Minecraft](https://www.canva.com/design/DAGOF1wsvTE/lczkJ9aDuXuFTs15YHdOFw/edit?utm_content=DAGOF1wsvTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [@bikram-ghuku](http://github.com/bikram-ghuku/) |
