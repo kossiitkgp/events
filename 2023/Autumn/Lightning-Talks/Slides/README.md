@@ -1,4 +1,4 @@
-# Lightning Talks 2023
+# Lightning Talks 2024
 
 | Topic & Link to slide | Presenter |
 |----------|----------|
