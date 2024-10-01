@@ -51,6 +51,8 @@
 
 ## KOSS Lightning Talks
 
+- **2024**
+  - [**Autumn**](./2024/Autumn/Lightning-Talks)
 - **2023**
   - [**Autumn**](./2023/Autumn/Lightning-Talks)
 - **2022**
