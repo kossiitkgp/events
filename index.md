@@ -25,6 +25,7 @@
 ## GSoC Introductory Seminar
 
 - **2024**
+  - [**Autumn**](./2024/Autumn/GSoC-Intro-Seminar)
   - [**Spring**](./2024/Spring/GSoC-Intro-Sem)
 - **2022**
   - [**Autumn**](./2022/Autumn/GSoC-Intro-Seminar)
