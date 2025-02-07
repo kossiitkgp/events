@@ -1,4 +1,4 @@
-# CTF Workshop 2025
+# CyberSecurity Workshop 2025
 
 **2nd February 2025, 2:00pm, NR121**
 

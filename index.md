@@ -8,7 +8,7 @@
 1. [KOSS Lightning Talks](#koss-lightning-talks)
 1. [KOSS Freshers' Introductory Seminar](#koss-freshers-introductory-seminar)
 1. [Linux Install Fest](#linux-installation-fest)
-1. [CTF Workshop](#ctf-workshop)
+1. [Cybersecurity Workshop](#ctf-workshop)
 1. [Miscellaneous](#miscellaneous)
    1. [Linux Shell Scripting and Vim Commands](#linux-shell-scripting-and-vim-commands)
    1. [Python Workshop](#python-workshop)
@@ -74,7 +74,7 @@
 - **2023**
   - [**Spring**](./2023/Spring/Ubuntu-Install-Fest)
 
-## CTF Workshop
+## Cybersecurity Workshop
 
 - **2025**
   - [**Spring**](./2025/Spring/CTF-workshop)
