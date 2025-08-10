@@ -8,3 +8,4 @@
 | [Dependent Types](https://github.com/harshit-panthi/DependentLightning) | [@harshit-panthi](https://github.com/harshit-panthi) |
 | [Biblically Accurate Full-Stack Web Development Framework](https://www.canva.com/design/DAGveWZ4c9A/R_tJ29AjGCShHGjZAtAy8A/edit) | [@shrehanrajsingh](https://github.com/shrehanrajsingh) |
 | [Git Internals](https://waqibsk.github.io/KOSS_LT_TALK/) | [@Waqibsk](https://github.com/Waqibsk) |
+| [CHILL-PILL --because therapy is expensive](https://www.canva.com/design/DAGvkhPPVu4/4UfEQC18PL9MLNjzj-T3Ug/edit?utm_content=DAGvkhPPVu4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [@Vyshnavi-Design](https://github.com/Vyshnavi-Design) |
