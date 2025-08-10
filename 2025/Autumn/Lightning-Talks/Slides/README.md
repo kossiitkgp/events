@@ -6,3 +6,4 @@
 | [Why You (Probably) Shouldn't Create a New Programming Language](https://www.canva.com/design/DAGvkXvlVQU/dkvIT8zam9v8roLz1pRO4Q/edit) | [@harshrajdubey](https://github.com/harshrajdubey) |
 | [Emulation Programming](https://saksham-kumar-14.github.io/emulationPPT) | [@saksahm-kumar-14](https://github.com/saksham-kumar-14/) |
 | [Dependent Types](https://github.com/harshit-panthi/DependentLightning) | [@harshit-panthi](https://github.com/harshit-panthi) |
+| [Biblically Accurate Full-Stack Web Development Framework](https://www.canva.com/design/DAGveWZ4c9A/R_tJ29AjGCShHGjZAtAy8A/edit) | [@shrehanrajsingh](https://github.com/shrehanrajsingh) |
