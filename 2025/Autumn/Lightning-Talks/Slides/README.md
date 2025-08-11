@@ -10,3 +10,4 @@
 | [Git Internals](https://waqibsk.github.io/KOSS_LT_TALK/) | [@Waqibsk](https://github.com/Waqibsk) |
 | [CHILL-PILL --because therapy is expensive](https://www.canva.com/design/DAGvkhPPVu4/4UfEQC18PL9MLNjzj-T3Ug/edit?utm_content=DAGvkhPPVu4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [@Vyshnavi-Design](https://github.com/Vyshnavi-Design) |
 | [Cute little pink flags](https://www.canva.com/design/DAGvZ4a868g/T_YYKNyp1hG9NzCRfyt7Eg/edit?utm_content=DAGvZ4a868g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [@Honeysweety2728](https://github.com/Honeysweety2728) |
+| [The "Legend" of Zelda](https://www.canva.com/design/DAGvNamS2t8/5VFhjlYV_LgJ7F9lb83u_w/edit?utm_content=DAGvNamS2t8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [@AnshumaanMishra](https://github.com/AnshumaanMishra) |
