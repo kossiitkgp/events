@@ -52,7 +52,8 @@
   - [**Autumn**](./2018/Autumn/git-github)
 
 ## KOSS Lightning Talks
-
+- **2025**
+  - [**Autumn**](./2025/Autumn/Lightning-Talks)
 - **2024**
   - [**Autumn**](./2024/Autumn/Lightning-Talks)
 - **2023**
