@@ -13,3 +13,4 @@
 | [The "Legend" of Zelda](https://www.canva.com/design/DAGvNamS2t8/5VFhjlYV_LgJ7F9lb83u_w/edit?utm_content=DAGvNamS2t8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [@AnshumaanMishra](https://github.com/AnshumaanMishra) |
 | [Word Origins](https://www.canva.com/design/DAGvRY-udms/Xqmdxa3jBRCPcd0R8gq_8Q/edit?utm_content=DAGvRY-udms&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [@RohanSah](https://github.com/rosa479) |
 | [Harry Potter](https://www.canva.com/design/DAGvOkEZj6M/3ro_unXnYF-G4MSN0IiORg/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0) | [@YugBargaway](https://github.com/YugBargaway2006) |
+| [Operation Zombies](https://1drv.ms/p/c/4cc17c481a347022/EZ1rc_rIRUZBoFuX-hqa0WoBgiNuXPZ0fsybpo1ltRhk3g?e=UsZ2Il) | [@AarushiAaryan](https://github.com/thegirlhacker) |
