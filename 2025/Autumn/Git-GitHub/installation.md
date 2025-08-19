@@ -20,7 +20,7 @@ Here are a few links to help you install git on your Windows system:
 - https://phoenixnap.com/kb/how-to-install-git-windows
 - https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/
 
-### Max OS X
+### Mac OS X
 
 Here are a few links to help you install git on your MAC OS X system:
 
