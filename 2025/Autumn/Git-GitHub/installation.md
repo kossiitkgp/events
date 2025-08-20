@@ -22,7 +22,7 @@ Here are a few links to help you install git on your Windows system:
 
 ### Mac OS X
 
-Here are a few links to help you install git on your MAC OS X system:
+Here are a few links to help you install git on your Mac OS X system:
 
 - https://git-scm.com/download/mac
 - https://www.atlassian.com/git/tutorials/install-git#mac-os-x
@@ -38,7 +38,7 @@ If you see a version number, then this confirms that git has been properly insta
 
 ## Create a GitHub Account
 
-If you don't have a GitHub account already, create one by going to https://github.com, click on Sign Up. Choose your username carefully, as you won't be able to change it later!
+If you don't have a GitHub account already, go to https://github.com, click on Sign Up, and create your account.
 
 ## Authenticating to GitHub in the terminal
 
