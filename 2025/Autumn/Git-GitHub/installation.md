@@ -65,14 +65,11 @@ If you don't have a GitHub account already, go to https://github.com, click on S
    ✓ Configured git protocol
    ✓ Logged in as <username>
    ```
-   If you see the message `Logged in as <username>`, then git is properly authenticated with your GitHub account!
 
-> [!NOTE]
-> The above steps show setting up of authentication using `gh` CLI. Alternatively, you can also set it up by using `git config`, by the following commands:
-> 
-> ```
-> git config --global user.name "Your Name"
-> git config --global user.email "your@email.com"
-> ```
+3. Finally, set your identity in git (name and email), this should match the email connected to your GitHub account.
+    ```
+    git config --global user.name "Your Name"
+    git config --global user.email "your@email.com"
+    ```
    
  You are now ready to master the ways of git!
