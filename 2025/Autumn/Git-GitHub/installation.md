@@ -67,6 +67,7 @@ If you don't have a GitHub account already, go to https://github.com, click on S
    ```
    If you see the message `Logged in as <username>`, then git is properly authenticated with your GitHub account!
 
+> [!NOTE]
 > The above steps show setting up of authentication using `gh` CLI. Alternatively, you can also set it up by using `git config`, by the following commands:
 > 
 > ```
