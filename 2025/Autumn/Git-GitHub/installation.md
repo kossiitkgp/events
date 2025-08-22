@@ -44,7 +44,7 @@ If you don't have a GitHub account already, go to https://github.com, click on S
 
 > [!NOTE]
 > We will be using `gh` CLI, a command line utility by GitHub, for setting up authentication in Git.
-> For other ways to set this up, see [Alternates]( https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github#authenticating-with-the-command-line)..
+> For other ways to set this up, see [Alternates](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github#authenticating-with-the-command-line).
 
 1. Install GH CLI (GitHub CLI): Follow the download instructions from https://cli.github.com/. Once it has been installed, run the following command in a newly opened shell window:
    ```bash
