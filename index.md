@@ -37,6 +37,8 @@
 
 ## Git and GitHub Workshop
 
+- **2025**
+  - [**Autumn**](./2025/Autumn/Git-GitHub)
 - **2024**
   - [**Autumn**](./2024/Autumn/Git-GitHub) 
 - **2023**
