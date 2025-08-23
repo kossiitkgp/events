@@ -1,6 +1,6 @@
 # Git Installation Guide
 
-Hi, please follow the following steps to install and set up Git on your laptop. In case you face any issues, we'll help resolve them from 1:30 PM to 2:00 PM on the day of the workshop. 
+Please follow the following steps to install and set up Git on your laptop. In case you face any issues, we'll help resolve them from 1:30 PM to 2:00 PM on the day of the workshop. 
 
 1. Install Git
 2. Make a GitHub account
