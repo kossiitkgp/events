@@ -1,5 +1,5 @@
 # Linux Installation Fest 2025
-November 1, 2025 | 2 PM Onwards | NR-122 | *Kharagpur Open Source Society*
+November 1, 2025 | 2:30 PM Onwards | NR-212 | *Kharagpur Open Source Society*
 
 <img width="1336" height="890" alt="image" src="https://gist.github.com/user-attachments/assets/0445a555-4426-448b-b236-53ec0687e0c4" />
 
