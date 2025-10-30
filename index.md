@@ -74,6 +74,8 @@
 
 ## Linux Installation Fest
 
+- **2025**
+  - [**Autumn**](./2025/Autumn/Linux-Install-Fest)
 - **2023**
   - [**Spring**](./2023/Spring/Ubuntu-Install-Fest)
 - **2024**
