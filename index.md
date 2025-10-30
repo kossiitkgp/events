@@ -76,6 +76,8 @@
 
 - **2023**
   - [**Spring**](./2023/Spring/Ubuntu-Install-Fest)
+- **2024**
+  - [**Autumn**](./2024/Autumn/Linux-Install-Fest/)
 
 ## Cybersecurity Workshop
 
