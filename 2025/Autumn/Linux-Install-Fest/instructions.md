@@ -19,7 +19,6 @@ Switching from Windows? Linux Mint makes the transition a breeze with its famili
 
 ## Workshop Requirements
 
-
 - **Download the latest version** of any one of the distributions of your choice: 
   - [Ubuntu 24.04.3 LTS](https://ubuntu.com/download/desktop)
   - [Fedora 43](https://ubuntu.com/download/desktop)
@@ -27,4 +26,14 @@ Switching from Windows? Linux Mint makes the transition a breeze with its famili
 - **Download and install [Rufus](https://rufus.ie/en/) on your systems**: Rufus is a tool that can be used to create bootable USB drives. It is recommended to download and install this software on your computer before the workshop.
 - **Make sure you have 30 GB of empty SSD/HDD space**: Before installing a Linux distribution, it is essential to make sure that you have enough free space on your system. Having at least 30 GB of empty space on your SSD/HDD is recommended.
 - **Bring a pen drive**: It is recommended to bring a pen drive with a capacity of at least 8 GB to create a bootable USB drive. Note that your pen drive will be formatted/erased, so back up any critical data to prevent further inconveniences.
+- **Disable Secure Boot and Fast Boot**: Follow the below instructions to disable Secure Boot and Fast Boot, for a smooth installation process.
+
+### Firmware and System Settings
+
+Make sure you're familiar with how to access your laptop's firmware (BIOS) settings. When you start the computer, before your computer boots, pressing a special key (usually F2, F10, F12 or Del) opens the firmware settings. Once you are in your firmware settings, follow the on-screen instructions to navigate, and:
+
+- Disable **Secure Boot**: Some Linux distributions may not install properly if Secure Boot is enabled.
+- Disable **Fast Boot**: This prevents Windows from locking your drive, allowing smoother installation.
+- Disable **Automatic Updates**: Temporarily disable Windows auto-updates to avoid interruptions while setting up dual boot.
+
 
