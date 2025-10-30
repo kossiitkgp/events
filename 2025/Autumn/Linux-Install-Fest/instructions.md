@@ -1,12 +1,12 @@
 # Linux Installation Fest 2025
-November 1, 2025 | 2:30 PM Onwards | NR-212 | *Kharagpur Open Source Society*
+*November 1, 2025* | *2:30 PM Onwards* | *NR-212*
 
 <img width="1336" height="890" alt="image" src="https://gist.github.com/user-attachments/assets/0445a555-4426-448b-b236-53ec0687e0c4" />
 
 So you have finally decided to get started on the journey of using a GNU/Linux distribution! Not sure which distro to choose? Here’s a quick summary of features to help you find the perfect fit!
 
 **Ubuntu**\
-If you’re new to Linux, Ubuntu is the perfect starting point! It’s easy to use and incredibly versatile, with a huge software library, a friendly community to help you out, and even comes with built-in gaming capabilities.
+If you’re new to Linux, Ubuntu is the perfect starting point. It’s easy to use and incredibly versatile, with a huge software library, a friendly community to help you out, and even comes with built-in gaming capabilities. Its also the easiest distro to set up dual booting with!
 
 **Fedora**\
 If you’re a developer or love having the latest tech, Fedora is the perfect choice! It’s always up-to-date with cutting-edge features, making testing a breeze. Plus, it offers a smooth installation process and supports secure booting for added peace of mind.
@@ -14,6 +14,8 @@ If you’re a developer or love having the latest tech, Fedora is the perfect ch
 **Linux Mint**\
 Switching from Windows? Linux Mint makes the transition a breeze with its familiar interface! It's stable and minimalist, so everything just works with fewer errors, letting you enjoy your experience right away.
 
+> [!TIP]
+> You can dual boot Linux alongside your Windows installation with no difficulties. We will help you set up dual boot on your laptops.
 
 ## Workshop Requirements
 
