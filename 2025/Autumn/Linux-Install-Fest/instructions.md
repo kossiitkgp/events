@@ -21,7 +21,7 @@ Switching from Windows? Linux Mint makes the transition a breeze with its famili
 
 - **Download the latest version** of any one of the distributions of your choice: 
   - [Ubuntu 24.04.3 LTS](https://ubuntu.com/download/desktop)
-  - [Fedora 43](https://ubuntu.com/download/desktop)
+  - [Fedora 43](https://www.fedoraproject.org/workstation/download)
   - [Linux Mint 22.2](https://linuxmint.com/download.php)
 - **Download and install [Rufus](https://rufus.ie/en/) on your systems**: Rufus is a tool that can be used to create bootable USB drives. It is recommended to download and install this software on your computer before the workshop.
 - **Make sure you have 30 GB of empty SSD/HDD space**: Before installing a Linux distribution, it is essential to make sure that you have enough free space on your system. Having at least 30 GB of empty space on your SSD/HDD is recommended.
