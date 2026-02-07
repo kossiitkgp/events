@@ -103,3 +103,6 @@
 1. ## Javascript Workshop
    - **2019**
      - [**Autumn**](./2019/Autumn/javascript)
+1. ## Build, Deploy, Secure, Manage
+   - **2026**
+     - [**Spring**](./2026/Spring/Build-Deploy-Secure-Manage)
