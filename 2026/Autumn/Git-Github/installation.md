@@ -49,28 +49,28 @@ If you don't have a GitHub account already, go to https://github.com, click on S
 > For other ways to set this up, see [Alternates](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github#authenticating-with-the-command-line).
 
 1. Install GH CLI (GitHub CLI): Follow the download instructions from https://cli.github.com/. Once it has been installed, run the following command in a newly opened shell window:
-   ```bash
-   gh --version
-   ```
-   If you see a version number, this confirms that the `gh` utility has been installed.
+    ```bash
+    gh --version
+    ```
+    If you see a version number, this confirms that the `gh` utility has been installed.
 
 2. Run the command
-   ```bash
-   gh auth login
-   ```
-   Go through the wizard, answering the prompts. When a browser window is opened, login to GitHub, and paste the 'one-time code' in your browser.
-   ```
-   ? What account do you want to log into? GitHub.com
-   ? What is your preferred protocol for Git operations on this host? HTTPS
-   ? Authenticate Git with your GitHub credentials? Yes
-   ? How would you like to authenticate GitHub CLI? Login with a web browser
+    ```bash
+    gh auth login
+    ```
+    Go through the wizard, answering the prompts. When a browser window is opened, login to GitHub, and paste the 'one-time code' in your browser.
+    ```
+    ? What account do you want to log into? GitHub.com
+    ? What is your preferred protocol for Git operations on this host? HTTPS
+    ? Authenticate Git with your GitHub credentials? Yes
+    ? How would you like to authenticate GitHub CLI? Login with a web browser
 
-   ! First copy your one-time code: XXXX-XXXX
-   Press Enter to open github.com in your browser...
-   ✓ Authentication complete.
-   ✓ Configured git protocol
-   ✓ Logged in as <username>
-   ```
+    ! First copy your one-time code: XXXX-XXXX
+    Press Enter to open github.com in your browser...
+    ✓ Authentication complete.
+    ✓ Configured git protocol
+    ✓ Logged in as <username>
+    ```
 
 3. Finally, set your identity in git (name and email), this should match the email connected to your GitHub account.
     ```
