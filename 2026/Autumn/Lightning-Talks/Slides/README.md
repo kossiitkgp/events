@@ -8,3 +8,4 @@
 | [How to solve a~~any~~ cube?](https://canva.link/r5fxbdfgwkc88dc) | [@HarshKumar](https://github.com/realharshkumar) |
 | [The World Tour from Modi's POV](https://canva.link/ypjbreri86pt6d5) | [@KinshukHarsoura](https://github.com/kinshukharsoura) |
 | [How does a song come to life ](https://canva.link/uaehmkiahpyrcvj) |[@keerthi](https://github.com/keerthi4633) |
+| [The most expensive bugs in history](https://canva.link/ni4jqmgw39qs9dz) | [@AnkitAgrawal](https://github.com/revrio) |
