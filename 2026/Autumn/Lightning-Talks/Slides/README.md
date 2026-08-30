@@ -7,3 +7,4 @@
 | [A Beginner Guide To OpenSource Larping](https://docs.google.com/presentation/d/1nIqossR1Bm5QnHAxHpMEj0iOUU2L1FpS_BfH69b-AS0/view) | [@arpitchakladar](https://github.com/arpitchakladar) |
 | [How to solve a~~any~~ cube?](https://canva.link/r5fxbdfgwkc88dc) | [@HarshKumar](https://github.com/realharshkumar) |
 | [The World Tour from Modi's POV](https://canva.link/ypjbreri86pt6d5) | [@KinshukHarsoura](https://github.com/kinshukharsoura) |
+| [How does a song come to life ](https://canva.link/uaehmkiahpyrcvj) |[@keerthi](https://github.com/keerthi4633) |
