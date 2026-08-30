@@ -9,3 +9,4 @@
 | [The World Tour from Modi's POV](https://canva.link/ypjbreri86pt6d5) | [@KinshukHarsoura](https://github.com/kinshukharsoura) |
 | [How does a song come to life ](https://canva.link/uaehmkiahpyrcvj) |[@keerthi](https://github.com/keerthi4633) |
 | [The most expensive bugs in history](https://canva.link/ni4jqmgw39qs9dz) | [@AnkitAgrawal](https://github.com/revrio) |
+| [Logical Redstone](https://canva.link/njkoouqwni6w18u) | [@KaustavBoseChowdhury](https://github.com/Kaustav-Bose-Chowdhury) |
