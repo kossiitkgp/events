@@ -10,3 +10,4 @@
 | [How does a song come to life ](https://canva.link/uaehmkiahpyrcvj) |[@keerthi](https://github.com/keerthi4633) |
 | [The most expensive bugs in history](https://canva.link/ni4jqmgw39qs9dz) | [@AnkitAgrawal](https://github.com/revrio) |
 | [Logical Redstone](https://canva.link/njkoouqwni6w18u) | [@KaustavBoseChowdhury](https://github.com/Kaustav-Bose-Chowdhury) |
+| [Copium](https://canva.link/0ju70by7l4x61k6) | [@SamarTandon](https://github.com/SAMARTANDON)
