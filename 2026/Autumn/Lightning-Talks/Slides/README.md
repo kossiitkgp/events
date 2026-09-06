@@ -11,3 +11,4 @@
 | [The most expensive bugs in history](https://canva.link/ni4jqmgw39qs9dz) | [@AnkitAgrawal](https://github.com/revrio) |
 | [Logical Redstone](https://canva.link/njkoouqwni6w18u) | [@KaustavBoseChowdhury](https://github.com/Kaustav-Bose-Chowdhury) |
 | [Copium](https://canva.link/0ju70by7l4x61k6) | [@SamarTandon](https://github.com/SAMARTANDON)
+| [A day in my Life , ft. Ravi Kishan](https://canva.link/sb14xim89avmamo) | [@AdityaTyagi](https://github.com/warrior2323) |
