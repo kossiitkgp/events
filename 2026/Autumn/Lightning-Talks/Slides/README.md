@@ -12,3 +12,4 @@
 | [Logical Redstone](https://canva.link/njkoouqwni6w18u) | [@KaustavBoseChowdhury](https://github.com/Kaustav-Bose-Chowdhury) |
 | [Copium](https://canva.link/0ju70by7l4x61k6) | [@SamarTandon](https://github.com/SAMARTANDON)
 | [A day in my Life , ft. Ravi Kishan](https://canva.link/sb14xim89avmamo) | [@AdityaTyagi](https://github.com/warrior2323) |
+| [Do we really need larger AI models for more intelligence or do we even need to understand the “Language” understood by “Large Language Models”](https://canva.link/j6i7ahs3l8zr6cj) | [@SourasishMukherjee](https://github.com/sourasish-mukherjee1904) |
