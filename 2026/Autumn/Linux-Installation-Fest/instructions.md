@@ -1,6 +1,6 @@
 [instructions.md](https://github.com/user-attachments/files/33133270/instructions.md)
 # Linux Installation Fest 2026
-*October 10* | *2:30 PM Onwards* 
+*October 10* | *2:00 PM Onwards* | *Nalanda NR111* 
 
 <img width="1336" height="890" alt="image" src="https://gist.github.com/user-attachments/assets/0445a555-4426-448b-b236-53ec0687e0c4" />
 
