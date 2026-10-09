@@ -21,7 +21,7 @@ Switching from Windows? Linux Mint makes the transition a breeze with its famili
 ## Workshop Requirements
 
 - **Download the latest version** of any one of the distributions of your choice: 
-  - [Ubuntu 24.04.3 LTS](https://ubuntu.com/download/desktop)
+  - [Ubuntu 26.04 LTS](https://ubuntu.com/download/desktop)
   - [Fedora 43](https://www.fedoraproject.org/workstation/download)
   - [Linux Mint 22.2](https://linuxmint.com/download.php)
 - **Download and install [Ventoy](https://www.ventoy.net/en/download.html) on your systems**: Ventoy is a tool that can be used to create bootable USB drives. It is recommended to download and install this software on your computer before the workshop.
@@ -36,5 +36,6 @@ Make sure you're familiar with how to access your laptop's firmware (BIOS) setti
 - Disable **Secure Boot**: Some Linux distributions may not install properly if Secure Boot is enabled.
 - Disable **Fast Boot**: This prevents Windows from locking your drive, allowing smoother installation.
 - Disable **Automatic Updates**: Temporarily disable Windows auto-updates to avoid interruptions while setting up dual boot.
+- Disable **BitLocker**: Search for BitLocker in settings and then turn it off. **It may take a long time**.
 
 
