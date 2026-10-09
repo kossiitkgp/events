@@ -29,7 +29,6 @@ Switching from Windows? Linux Mint makes the transition a breeze with its famili
 - **Bring a pen drive**: It is recommended to bring a pen drive with a capacity of at least 8 GB to create a bootable USB drive. Note that your pen drive will be formatted/erased, so back up any critical data to prevent further inconveniences.
 - **Disable Secure Boot and Fast Boot**: Follow the below instructions to disable Secure Boot and Fast Boot, for a smooth installation process.
 
-
 ### Firmware and System Settings
 
 Make sure you're familiar with how to access your laptop's firmware (BIOS) settings. When you start the computer, before your computer boots, pressing a special key (usually F2, F10, F12 or Del) opens the firmware settings. Once you are in your firmware settings, follow the on-screen instructions to navigate, and:
